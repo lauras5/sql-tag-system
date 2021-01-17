@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rhythmic-breakpoints Has Correct API 1`] = `
+Array [
+  "makeId",
+  "setupTagSystem",
+  "tagIdExists",
+  "addTag",
+  "getTag",
+  "listTags",
+]
+`;
